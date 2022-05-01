@@ -45,6 +45,7 @@ python -m ipykernel install --user --name=geoenv
  ```
 git add geoenv.yml requirements.txt
 git status
-git commit
+git commit .
+git push origin main
 ```
 
